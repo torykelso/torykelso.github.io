@@ -26,13 +26,6 @@ h1{
 	font-weight: normal;
 	font-size: 50px;
 }
-#slogan{
-	
-	font-family:'Playfair', serif;
-	color: #000;
-	font-size: 30px;
-	font-style: italic;
-}
 
 
 section{	
@@ -42,7 +35,38 @@ section{
 	font-size: 30px;
 	padding-bottom: 180px
 
+	}
+h5{font-family:'Syncopate', sans-serif;
+	font-size: 25px;
+	font-variant: normal;
+
 }
+
+p{
+	font-family:'Playfair', serif;
+	font-size: 20px;
+	font-style: italic;
+	margin: 0;
+}
+
+
+footer{
+
+	background-color: #cccccc;
+	color: #ffffff
+	padding: 60px;
+	margin-top: 2px;
+	text-align: center;
+
+}
+#slogan{
+	
+	font-family:'Playfair', serif;
+	color: #000;
+	font-size: 30px;
+	font-style: italic;
+}
+
 
 #shop{
 	float: left;
@@ -68,31 +92,8 @@ section{
 	color: #000;
 	text-align: center;
 	padding: 100px;
-	
 
 }
-h5{font-family:'Syncopate', sans-serif;
-	font-size: 25px;
-	font-variant: normal;
-
-}
-
-p{
-	font-family:'Playfair', serif;
-	font-size: 20px;
-	font-style: italic;
-	margin: 0;
-}
-
-
-footer{
-
-	background-color: #cccccc;
-	color: #ffffff
-	padding: 60px;
-	margin-top: 2px;
-	text-align: center;
-
 	
 }
 #contact{
